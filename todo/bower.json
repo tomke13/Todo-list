@@ -1,0 +1,16 @@
+{
+  "name": "todo-list",
+  "homepage": "http://tomke.todo",
+  "authors": [
+    "tomke"
+  ],
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+        "jquery": "1.11.1",
+        "modernizr": "2.8.2",
+        "bootstrap": "~3.3.0"
+    },
+    "overrides": {
+    }
+}
